@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Futura LT";
-    src: url("https://sap-sap.ru/fonts/FuturaLT-Bold.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/amphetyze/blastonk/fonts/FuturaLT-Bold.ttf") format("truetype");
     font-weight: 700;
     font-style: normal;
 }
@@ -73,7 +73,7 @@ body.lock {
     z-index: 20;
     overflow: hidden;
 
-    background-image: url("https://sap-sap.ru/img/main-bg.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/amphetyze/blastonk/img/main-bg.png");
     background-position: top center;
     background-repeat: no-repeat;
 }
@@ -279,7 +279,7 @@ body.lock {
     line-height: 160%;
     letter-spacing: -0.9px;
 
-    background-image: url("https://sap-sap.ru/img/open-case-button.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/amphetyze/blastonk/img/open-case-button.png");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -421,7 +421,7 @@ body.lock {
     padding: 24px;
     position: relative;
 
-    background: url("https://sap-sap.ru/img/skins-blast-bg.png");
+    background: url("https://cdn.jsdelivr.net/gh/amphetyze/blastonk/img/skins-blast-bg.png");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -483,7 +483,7 @@ body.lock {
     padding: 24px;
     position: relative;
 
-    background: url("https://sap-sap.ru/img/skins-blast-bg.png");
+    background: url("https://cdn.jsdelivr.net/gh/amphetyze/blastonk/img/skins-blast-bg.png");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -506,7 +506,7 @@ body.lock {
     align-items: center;
     width: 100%;
     padding: 48px 100px 36px;
-    background-image: url("https://sap-sap.ru/img/case-bg.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/amphetyze/blastonk/img/case-bg.png");
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -683,7 +683,7 @@ body.lock {
     line-height: 160%;
     letter-spacing: -0.9px;
 
-    background-image: url("https://sap-sap.ru/img/login-button.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/amphetyze/blastonk/img/login-button.png");
     background-repeat: no-repeat;
     background-position: center;
 }
